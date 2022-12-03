@@ -13,6 +13,8 @@
 3. Surfaces -> Hide
 4. Styles -> Stick
 
+![Wireframe](/1.png)
+
 ## Backbone
 
 1. Actions -> Atoms/Bounds -> Chain trace only
